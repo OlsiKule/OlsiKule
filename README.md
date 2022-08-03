@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlsiKule
 - 👀 I’m interested in creating mobile apps 
-- 🌱 I’m currently learning CSS, HTML, JavaScript and C
+- 🌱 I’m currently learning CSS, HTML, JavaScript and a little bit of C & Python thanks to CS50!
 - 💞️ I’m looking to collaborate on ...well I haven't decided yet. 
 - 📫 You can reach me at olsi.kule@gmail.com
 
